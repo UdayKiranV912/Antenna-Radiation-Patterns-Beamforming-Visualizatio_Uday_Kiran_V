@@ -32,6 +32,14 @@ git clone https://github.com/yourusername/antenna-beamforming-visualization.git
 cd antenna-beamforming-visualization
 pip install -r requirements.txt
 
+## 🔊 Beam-patterns
+Module for linear array beam-forming generation.
+
+<a href="https://joanguitar.github.io/beam-patterns/" target="_blank">
+  🚀 <strong>Click here to launch the live demo</strong>
+</a>
+
+
 ## Beam-patterns
 Module for linear array beam-forming generation.
 
