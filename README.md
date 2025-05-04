@@ -16,9 +16,9 @@ This project provides a powerful and interactive Python-based visualization tool
 
 ## 📷 Example Outputs
 
-| Linear Radiation Pattern | 3D Beamforming | Polarization Ellipse |
-|--------------------------|----------------|------------------------|
-| ![Linear](images/linear_pattern.png) | ![3D](images/3d_beamforming.png) | ![Ellipse](images/polarization_ellipse.png) |
+![download (3)](https://github.com/user-attachments/assets/6f99053f-8991-49a0-8f5b-9395b9e4b3cb)
+![download (2)](https://github.com/user-attachments/assets/4b92e72e-dd5b-4619-bddf-947e23571885)
+
 
 ---
 
