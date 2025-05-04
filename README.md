@@ -1,3 +1,8 @@
+## 🔊 Beam-patterns
+Module for linear array beam-forming generation.
+
+👉 [Click here to view the Live Demo](https://joanguitar.github.io/beam-patterns/)
+
 # 📡 Antenna Radiation Patterns & Beamforming Visualization
 
 This project provides a powerful and interactive Python-based visualization toolkit for simulating **antenna radiation patterns**, **polarizations**, and **beamforming techniques** in 2D and 3D using `matplotlib` and `numpy`. It supports a wide range of antenna concepts, including linear, circular, and elliptical polarization, with intuitive graphics and dynamic control features.
@@ -32,16 +37,4 @@ git clone https://github.com/yourusername/antenna-beamforming-visualization.git
 cd antenna-beamforming-visualization
 pip install -r requirements.txt
 
-## 🔊 Beam-patterns
-Module for linear array beam-forming generation.
-
-<a href="https://joanguitar.github.io/beam-patterns/" target="_blank">
-  🚀 <strong>Click here to launch the live demo</strong>
-</a>
-
-
-## Beam-patterns
-Module for linear array beam-forming generation.
-
-👉 [Click here for live demo](https://joanguitar.github.io/beam-patterns/)
 
