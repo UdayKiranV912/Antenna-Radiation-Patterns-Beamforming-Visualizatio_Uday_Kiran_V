@@ -18,6 +18,7 @@ This project provides a powerful and interactive Python-based visualization tool
 
 ![download (3)](https://github.com/user-attachments/assets/6f99053f-8991-49a0-8f5b-9395b9e4b3cb)
 ![download (2)](https://github.com/user-attachments/assets/4b92e72e-dd5b-4619-bddf-947e23571885)
+![download (4)](https://github.com/user-attachments/assets/8c859ba5-a7bd-40d8-9645-d520f61c1e8f)
 
 
 ---
@@ -30,3 +31,7 @@ Make sure you have Python 3.8+ installed.
 git clone https://github.com/yourusername/antenna-beamforming-visualization.git
 cd antenna-beamforming-visualization
 pip install -r requirements.txt
+
+Module for linear array beam-forming generation.
+
+Live demo here.
